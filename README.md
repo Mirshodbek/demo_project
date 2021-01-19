@@ -7,5 +7,6 @@
 ![verification_pin_code(1)](https://user-images.githubusercontent.com/36184953/104851061-6eea5100-5914-11eb-97e8-d1ebb0d2d60f.jpg)
 ![white_background](https://user-images.githubusercontent.com/36184953/104881007-6b8dae80-5982-11eb-9300-a8c7ecf560f7.jpg)
 
+![device-2021-01-19-161200](https://user-images.githubusercontent.com/36184953/105027301-6a877a80-5a71-11eb-8d3f-b70f97a041e8.png)
 
 
