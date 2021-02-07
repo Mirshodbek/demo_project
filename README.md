@@ -5,6 +5,7 @@
 ![kz_flag](https://user-images.githubusercontent.com/36184953/104272294-a1342280-54be-11eb-87e8-2953126ff8a6.png)
 ![uzb_flag](https://user-images.githubusercontent.com/36184953/104272296-a2fde600-54be-11eb-9cbd-ef4715d7bb12.png)
 ![verification_pin_code(1)](https://user-images.githubusercontent.com/36184953/104851061-6eea5100-5914-11eb-97e8-d1ebb0d2d60f.jpg)
+![white_background](https://user-images.githubusercontent.com/36184953/107140001-0275d700-6941-11eb-9766-2605c4948e27.jpg)
 
 
 
